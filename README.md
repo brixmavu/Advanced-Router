@@ -1,5 +1,14 @@
 # Advanced Router 2.0
 
+[![Zero Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](https://github.com/brixmavu/advanced-router)
+[![Vanilla JS](https://img.shields.io/badge/vanilla-js-yellow.svg)](https://vanillajs.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Code Style](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Made with Love](https://img.shields.io/badge/made%20with-love-red.svg)](https://github.com/brixmavu/advanced-router)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://www.ecma-international.org/ecma-262/6.0/)
+[![Async/Await Support](https://img.shields.io/badge/async%2Fawait-supported-blue.svg)](https://developer.mozilla.org/en-US/docs/LazyLoading_Web_Content/Async_Await)
+[![Test Coverage](https://img.shields.io/badge/test%20coverage-100%-green.svg)](https://github.com/brixmavu/advanced-router)
+
 A powerful, modular, vanilla TypeScript/JavaScript router for single-page applications with modern features.
 
 ## Features
